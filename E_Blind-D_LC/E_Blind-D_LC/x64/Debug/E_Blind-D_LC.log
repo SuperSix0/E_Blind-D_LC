@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\github\e_blind-d_lc\e_blind-d_lc\e_blind-d_lc\main.cpp(74): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\github\e_blind-d_lc\e_blind-d_lc\e_blind-d_lc\main.cpp(124): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\github\e_blind-d_lc\e_blind-d_lc\e_blind-d_lc\main.cpp(138): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\github\e_blind-d_lc\e_blind-d_lc\e_blind-d_lc\main.cpp(153): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  E_Blind-D_LC.vcxproj -> D:\GitHub\E_Blind-D_LC\E_Blind-D_LC\x64\Debug\E_Blind-D_LC.exe
